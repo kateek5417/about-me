@@ -20,4 +20,27 @@ My grandparents and parents immigrated to the U.S around 50 years ago. My brothe
 7. Chemistry
 8. Lunch
 
+### Likes
+* Music
+* Food
+    * Spicy
+    * Seafood
+    * Noodles
+    * East Asian
+    * Sour
+* Sports
+    * Swimming
+* Puzzles
+* Order
+* Reading
+* Games
+* Staring off into space
+
+### Dislikes
+* Bitter foods
+* Disorder / messy things
+* Slackers
+* Tests
+* Loud people
+* Socializing
 
