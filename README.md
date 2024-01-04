@@ -45,3 +45,8 @@ My grandparents and parents immigrated to the U.S around 50 years ago. My brothe
 * Socializing
 
 #### [Click here!](https://pixabay.com/images/search/kitten/)
+
+Review=
+Schedule= Now I know you whole schedule.
+Likes (staring off into space)= Me too!
+Dislikes (Disorder/messy things, loud people, socializing, tests, slackers)= Same.
